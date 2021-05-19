@@ -1,0 +1,24 @@
+{
+    "teams": [
+        {"name": "Brooklyn Nets","record": "10-2", "titles": 3},
+        {"name": "Los Angeles Lakers","record": "5-5","titles": 5},
+        {"name": "New York Knicks","record": "7-9","titles": 2}
+        
+    ], 
+    "players": [
+        {"name": "Kevin Durant", "age": 31, "avgPoints": 29.5},
+        {"name": "Kyrie Irving", "age": 29, "avgPoints": 25.2},
+        {"name": "James Harden", "age": 32, "avgPoints": 23.5},
+        {"name": "Joe Harris", "age": 29, "avgPoints": 20.4},
+        
+        {"name": "Lebron James", "age": 36, "avgPoints": 28.2},
+        {"name": "Anthony Davies", "age": 28, "avgPoints": 25.3},
+        {"name": "Kyle Kuzma", "age": 24, "avgPoints": 17.4},
+        {"name": "Alex Caruso", "age": 25, "avgPoints": 12.5},
+
+        {"name": "Derrick Rose", "age": 32, "avgPoints": 30.2},
+        {"name": "RJ Barret", "age": 21, "avgPoints": 18.3},
+        {"name": "Julius Randle", "age": 26, "avgPoints": 24.9},
+        {"name": "Stephen a. Smith", "age": 38, "avgPoints": 2.4}
+    ]
+}
