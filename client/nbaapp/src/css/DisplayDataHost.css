@@ -1,0 +1,10 @@
+.team-player-details{
+    position: fixed;
+    top:0;
+    right: 0;
+    width: 40%;
+    background: rgb(93, 80, 128);
+    height: 100%;
+    color: white;
+
+}

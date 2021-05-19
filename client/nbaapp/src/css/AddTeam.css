@@ -1,0 +1,16 @@
+form{
+    margin-bottom: 70px;
+  }
+  
+  form h3{
+    text-align: center;
+  }
+  
+  form .add-btn{
+    margin-left: 150px;
+    position: fixed;
+    bottom: 5px;
+    left: 40px;
+  }
+  
+  

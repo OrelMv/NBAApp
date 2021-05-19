@@ -1,0 +1,25 @@
+.trade-header{
+    margin-left: 150px;
+    text-decoration: underline;
+}
+
+.arrows{
+    margin-left: 30px;
+}
+
+.select-team, .select-player{
+    margin-left: 60px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table{
+    margin-top: 4px;
+    margin-left: 20px;
+}
+
+.trade-btn ,.comparison-header{
+    margin-left: 130px;
+}
